@@ -1,6 +1,7 @@
 # RealTime BadgeView
 Display a badgeView on any view with RealTime Update.
 
+
 [![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
 [![](https://jitpack.io/v/kimoandroid/RealTime-BadgeView.svg)](https://jitpack.io/#kimoandroid/RealTime-BadgeView)
 
