@@ -2,10 +2,10 @@
 Display a badgeView on any view with RealTime Update.
 
 
-[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
-[![](https://jitpack.io/v/kimoandroid/RealTime-BadgeView.svg)](https://jitpack.io/#kimoandroid/RealTime-BadgeView)
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
+[![](https://jitpack.io/v/karim-eg/RealTime-BadgeView.svg)](https://jitpack.io/#karim-eg/RealTime-BadgeView)
 
-[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md)
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md)
 
 ## Screenshot:
 <img src="https://user-images.githubusercontent.com/69405523/183925269-305f8081-b372-40e1-8e7c-7b57d36d0d1f.jpg" width=320/>
@@ -16,7 +16,7 @@ Display a badgeView on any view with RealTime Update.
 Add This Line To your build.gradle (lastest v1.0.9):
 ```java
 dependencies {
-    implementation 'com.github.kimoandroid:Smart-BadgeView:1.0.9'
+    implementation 'com.github.karim-eg:Smart-BadgeView:1.0.9'
 }
 ```
 
