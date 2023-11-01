@@ -3,7 +3,7 @@ Display a badgeView on any view with RealTime Update.
 
 
 [![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
-[![](https://jitpack.io/v/karim-eg/RealTime-BadgeView.svg)](https://jitpack.io/#karim-eg/RealTime-BadgeView)
+[![](https://jitpack.io/v/karim-eg/Smart-BadgeView.svg)](https://jitpack.io/#karim-eg/Smart-BadgeView)
 
 [![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md)
 
